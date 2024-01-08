@@ -25,11 +25,11 @@ Machine learning is a subset of artificial intelligence and a powerful tool for 
 
 The course materials will consist primarily of Jupyter Notebooks and online readings. The only technology requirement on your part is access to a web browser.
 
-**Jupyter Notebooks:** All class notebooks will accessible on the web at [this GitHub repository](https://github.com/benjum/UCLA-24W-DH150). You will be able to run them all on the [IDRE JupyterHub](https://jupyter.idre.ucla.edu/) – this is a customized coding environment that is accessible via the web.
+**Jupyter Notebooks:** All class notebooks will accessible on the web at [this GitHub repository](https://github.com/benjum/UCLA-24W-DH150). For the first half of the course, you will be able to run them on the JupyterHub accessible via BruinLearn.  When the computing gets more resource-intensive, we will cover local software installations.  If you anticipate needing accommodations for a computer, please discuss with me.
 
 **Online Readings:** Each week there will be several readings of online content. These will provide context and stimulus for in-class discussions and for our coding activities.
 
-**Canvas:** Assignment submissions will take place on the Canvas course site, accessible at [bruinlearn.ucla.edu](https://bruinlearn.ucla.edu).
+**BruinLearn:** Assignment submissions will take place through our BruinLearn course site, accessible at [bruinlearn.ucla.edu](https://bruinlearn.ucla.edu).
 
 ## Evaluation
 
@@ -61,7 +61,7 @@ The course materials will consist primarily of Jupyter Notebooks and online read
 
 ### Discussion Posts
 
-Each class session will have an assigned reading(s) that you should complete prior to the following class.  I will post a prompt or question on Canvas, and you will be required to submit a short discussion post in response to it on Canvas by 9:00am on the day of the next class.  The posts should be thoughtful and substantive but relatively brief, just a few sentences up to two paragraphs max in length. You’ll get full marks for completing a post that is on-topic. These posts are simply intended to get you thinking about the material. You are also strongly encouraged to read and respond to the posts of your peers, and we will discuss readings in the class after postings have been made.
+Each class session will have an assigned reading(s) that you should complete prior to the following class.  I will post a prompt or question on BruinLearn, and you will be required to submit a short discussion post in response to it by 9:00am on the day of the next class.  The posts should be thoughtful and substantive but relatively brief, just a few sentences up to two paragraphs max in length. You’ll get full marks for completing a post that is on-topic. These posts are simply intended to get you thinking about the material. You are also strongly encouraged to read and respond to the posts of your peers, and we will discuss readings in the class after postings have been made.
 
 ### Assignments
 
@@ -77,16 +77,16 @@ They will be graded according to the following criteria:
 ### Final Project
 
 Your final project will be a combination of a hands-on machine learning coding project and a critical analysis term paper.  I will distribute a more-detailed explanation during the 2nd week, but the final project will involve the following:
-1. Choosing a dataset of interest to you from a pre-defined list of acceptable datasets (primarily drawn from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php) and [Kaggle](https://www.kaggle.com/))
+1. Choose a dataset of interest to you from a pre-defined list of acceptable datasets (primarily drawn from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php) and [Kaggle](https://www.kaggle.com/))
 1. Analyze the dataset and use machine learning to make predictions about the dataset.
 1. Summarize and critique articles associated with the dataset, including:
     1. Pros and cons of their analysis
     1. Pros and cons of their machine learning technique
-    1. Humanistic concerns relevant to their analysis
+    1. Humanistic and ethical concerns relevant to their analysis
 1. Compare your results with the papers' results
     1. They do not have to match!! In fact, I will not expect an exact match.  Simply give a thoughtful explanation of how they make sense together (or don't).
 
-The final product will be a webpage report (1500+ words, not including figure captions) and a short (5-10 minute) presentation of your analysis.
+The final product will be a Jupyter notebook/report (1500+ words, not including figure captions) and a short (5-10 minute) presentation of your analysis.
 
 All necessary coding details will be covered over the course of our class.
 
@@ -95,22 +95,12 @@ All necessary coding details will be covered over the course of our class.
 * If you can not submit something on time, please contact me before a due date and we can make alternative arrangements.
 * If we do not make prior arrangements, I will give a one-day grace period on assignments, following which 5% will be deducted from your assignment grade for each subsequent day.
     * Ideally we should make alternative arrangements first before falling into this edge case.
-* Final projects are due on the last day.
-  * I will be less lenient with this deadline, but if external circumstances absolutely prevent you from completing the final project, we can discuss your situation in-person.
+* Final projects are due on Monday March 18, one week after our final in-person class.
+  * This is not a flexible deadline unless you discuss with me.
 
 ## Weekly Schedule
 
 **Note:** Weekly content is subject to change and will be modified as needed based on class discussions, needs, and progress.
-
-### Preparation
-
-* Fill out the [pre-class survey](https://forms.gle/cXGFPWmYZzKf5HnT6)
-* If you do not have a GitHub account, create one for the class
-  * [https://github.com/](https://github.com/)
-* Make sure you can log into the class JupyterHub
-  * [JupyterHub](https://jupyter.idre.ucla.edu) (choose Google for authentication and use your g.ucla.edu account)
-* During each class, you should visit the following link to get course-material updates
-  * [Pull the latest updates to JupyterHub](https://jupyter.idre.ucla.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fbenjum%2FUCLA-24W-DH150&urlpath=lab%2Ftree%2FUCLA-24W-DH150%2F&branch=main)
 
 | Week | Technical Topic | Reading |
 | :---: | :--- | :--- |
