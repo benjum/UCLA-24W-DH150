@@ -11,8 +11,5 @@ dtreeviz
 xgboost
 nltk
 gensim
-spacy
-transformers
-torch
 tensorflow
 jax[cpu]
